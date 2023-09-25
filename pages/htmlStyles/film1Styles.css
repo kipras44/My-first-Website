@@ -1,0 +1,14 @@
+header{
+    background-color: black;
+    color: gold;
+    font-size: xx-large;
+}
+
+body{
+    background-color: rgb(219, 139, 152);
+}
+
+
+
+/*I only created the filmStyles folder because I was running into issues with the pathing of my stylesheets. When I linked the stylesheet the file would go to the pages/
+folder and then look for the styles folder there.*/
